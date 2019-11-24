@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "elliptic": "^6.4.0"
+    "elliptic": "^6.5.2"
   }
 }
